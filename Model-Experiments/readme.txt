@@ -1,0 +1,1 @@
+This folder acts as the workbench area for asset development before items are deployed to the main repository. Naming convention should be as follows: category/description _ yourname_ iteration number. For example Wall-Mounted-Lights_Spencer-1
